@@ -8,8 +8,7 @@ Each subfolder in this repository is a self-contained plugin — a request handl
 
 | Name | Type | Description | License |
 |------|------|--------------|---------|
-| _(none yet)_ | | | |
-
+| [PushoverTriggerRequestHandler](PushoverTriggerRequestHandler/) | requestHandler | Sends `TriggerRequest` notifications via [Pushover](https://pushover.net) | BSD-3-Clause |
 ## Structure
 
 Every plugin lives in its own top-level folder, named after the plugin itself:
