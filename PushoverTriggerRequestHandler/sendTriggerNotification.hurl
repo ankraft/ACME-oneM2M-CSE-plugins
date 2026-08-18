@@ -1,5 +1,5 @@
 #
-# Register an AE & TriggerRequest to send a notification via Pushover
+# Register an AE & create a TriggerRequest to send a notification via Pushover
 #
 
 #
